@@ -3,7 +3,7 @@ package zad4;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class NexExceptionTest {
+public class NewExceptionTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {
